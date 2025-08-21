@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-
 import 'Tela1.dart';
+import 'Tela2.dart';
+import 'Tela3.dart';
 
 void main() {
   runApp(const MyApp());
